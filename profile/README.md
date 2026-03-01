@@ -1,8 +1,8 @@
-# BETESHIG Studios
+# BETESHIG Studio
 
 > Small studio. Weird ideas. Serious games.
 
-BETESHIG Studios is an indie game studio driven by a simple belief: great games come from spite, snacks, and an unhealthy attachment to pixel art. We've spent time honing our skills and building our voice — and now we're respawning as a real studio.
+BETESHIG Studio is an indie game studio driven by a simple belief: great games come from spite, snacks, and an unhealthy attachment to pixel art. We've spent time honing our skills and building our voice — and now we're respawning as a real studio.
 We build with Godot, create art in Aseprite, and craft 3D assets in Blender.
 
 ## Find Us
